@@ -1,0 +1,40 @@
+body{
+	background-color: #ece8e8;
+}
+div{
+	width: 800px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+}
+img{
+	max-width: 100%;
+	
+}
+h1{
+	font-size: 50px;
+	margin-top: 0;
+	text-align: center;
+}
+span{
+	color: #00ff7ead;
+    text-transform: uppercase;
+    text-shadow: 5px 10px 2px #deece382;
+}
+.hi{
+	color: green;
+	font-size: 30px;
+	text-transform:none;
+}
+.myself{
+	color:white ;
+	background-color: #af802b;
+	font-size: 25px;
+	text-transform:none;
+	text-shadow:none;
+	text-transform: capitalize;
+}
+p{
+	text-transform: capitalize;
+}
